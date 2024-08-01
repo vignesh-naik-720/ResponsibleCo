@@ -1,0 +1,76 @@
+/* Styling for page will be done here */
+/* Color Pallete
+#254336 
+#6B8A7A
+#B7B597
+#DAD3BE*/
+body{
+    font-family: "Source Sans 3", sans-serif;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.heading{
+    font-size: 48px;
+    font-weight: 900;
+    color: #254336;
+}
+.navbar-table, .hero-table, .aboutus-table{
+    width: 100%;
+}
+.sign-up{
+    font-family: "Source Sans 3", sans-serif;
+    padding: 10px 30px;
+    font-size: 24px;
+    font-weight: 600;
+    border: solid 2px #DAD3BE;
+    border-radius: 16px;
+    background-color: #254336;
+    color: #DAD3BE;
+}
+.sign-up:hover{
+    border-color: #254336;
+    background-color: #DAD3BE;
+    color: #254336 ;
+}
+.nav-link, .hero-link{
+    font-size: 24px;
+    padding: 0px 15px;
+    color: #6B8A7A;
+    text-decoration: none;
+}
+.nav-link:visited{
+    color: #254336;
+}
+.hero-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.hero-data{
+    padding: 40px;
+}
+
+.value{
+    background-color: #254336;
+    padding-top: 200px;
+    border-radius: 16px;
+    color: #DAD3BE;
+    width: 33.33%;
+    padding-bottom: 50px;
+    text-align: center;
+    margin: 0px 100px;
+}
+.value-def{
+    padding: 20px 40px;
+    text-align: left;
+    font-size: 16px;
+}
+.value:hover{
+    background-color: #DAD3BE;
+    padding-top: 50px;
+    color: #254336;
+    width: 33.33%;
+    text-align: center;
+    visibility: visible;
+}
+
+
